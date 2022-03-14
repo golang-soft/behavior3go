@@ -5,12 +5,12 @@ import (
 	"reflect"
 	"testing"
 
-	b3 "github.com/magicsea/behavior3go"
-	//. "github.com/magicsea/behavior3go/actions"
-	//. "github.com/magicsea/behavior3go/composites"
-	. "github.com/magicsea/behavior3go/config"
-	. "github.com/magicsea/behavior3go/core"
-	//. "github.com/magicsea/behavior3go/decorators"
+	b3 "github.com/golang-soft/behavior3go"
+	//. "github.com/golang-soft/behavior3go/actions"
+	//. "github.com/golang-soft/behavior3go/composites"
+	. "github.com/golang-soft/behavior3go/config"
+	. "github.com/golang-soft/behavior3go/core"
+	//. "github.com/golang-soft/behavior3go/decorators"
 )
 
 type Test struct {
